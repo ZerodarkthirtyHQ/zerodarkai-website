@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lcg-builders.vercel.app/sitemap.xml
