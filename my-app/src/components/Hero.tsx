@@ -134,7 +134,7 @@ export default function Hero() {
                       `,
                       display: 'inline-block',
                     }}
-                    className="font-heading font-black text-[12vw] sm:text-[10vw] md:text-[12vw] lg:text-[10vw] leading-[0.85] tracking-[-0.04em]"
+                    className="font-heading font-black text-[9vw] md:text-[12vw] lg:text-[10vw] leading-[0.85] tracking-[-0.04em]"
                   >
                     <span className={isEven ? "text-white" : "text-gradient"}>
                       {letter}
